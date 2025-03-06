@@ -5,6 +5,8 @@ This dmoney demo project is a simple wallet system that allows users to deposit,
  - Postman
  - Newman
  - Report: newman-html-extra
+## Postman Documentation URL
+ - https://documenter.getpostman.com/view/42658049/2sAYdmjTBu
 ## How to run?
  - Clone this project
  - Collect .env from developer and put on the source root folder
