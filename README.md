@@ -13,5 +13,7 @@ This dmoney demo project is a simple wallet system that allows users to deposit,
  - Hit following command:
    - ``` npm i ```
    - ``` npm test ```
+## Bug Report link
+ - https://docs.google.com/spreadsheets/d/1Q4P5nZHBYt6IrM9UNXr-c7rK5XPgoKuN/edit?usp=sharing&ouid=105680020578634715377&rtpof=true&sd=true
 ## Test Report
 ![Screenshot (60)](https://github.com/user-attachments/assets/7d714afe-f1b2-4518-9b08-524c6747b68e)
