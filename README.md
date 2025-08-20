@@ -1,6 +1,6 @@
 # Demo Financial User Management
 ## Description: 
-This dmoney demo project is a simple wallet system that allows users to deposit, send, withdraw, and make payments. It supports types of users: Agents, Customers, and Merchants, each with specific transaction capabilities. 
+Demo Financial User Management is a Dmoney wallet system that allows Agents, Customers, and Merchants to perform transactions like deposit, send money, withdraw, and make payments. The APIs are tested and automated using Postman and Newman, with detailed HTML reports generated via newman-html-extra. 
 ## Technology I used:
  - Postman
  - Newman
